@@ -1,9 +1,7 @@
 # Gats
 <!DOCTYPE html>
 <html>
-<head>
-	<title>EINES WEB</title>
-</head>
+
 <body>
 	<h1> La vida dels Gats</h1>
 	<p>Totes les imatges que he inclòs a la web están tratados Amb el programa GIMP, per truene el fons i cambiar el format. 
